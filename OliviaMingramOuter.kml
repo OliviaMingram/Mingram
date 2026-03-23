@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>OliviaMingramOuter.kml</name>
+	<name>Olivia Mingram Initial</name>
 	<StyleMap id="msn_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
@@ -41,7 +41,7 @@
 		</BalloonStyle>
 		<LineStyle>
 			<width>5</width>
-			<color>FFFFFF</color>
+			<color>ffffffff</color>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff045d3e</color>
