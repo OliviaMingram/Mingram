@@ -41,6 +41,7 @@
 		</BalloonStyle>
 		<LineStyle>
 			<width>5</width>
+			<color>FFFFFF</color>
 		</LineStyle>
 		<PolyStyle>
 			<color>ff045d3e</color>
