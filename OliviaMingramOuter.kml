@@ -2,6 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Olivia Mingram Initial</name>
+	 <description>Olivia Mingram First Initial.</description>
 	<StyleMap id="msn_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
